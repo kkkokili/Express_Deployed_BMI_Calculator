@@ -1,6 +1,6 @@
 # Express_Deployed_BMI_Calculator
 
-## The BMI Calculator uses Express toolkit (based on Node. js) to deploy a web app calculating the adult BMI index through input human weight and height.
+### The BMI Calculator uses Express toolkit (based on Node. js) to deploy a web app calculating the adult BMI index through input human weight and height.
 
 ## SKILLS:
 #### It covers the knowledge of **_HTML, CSS, Bootstrap,  backend Node.js and Express_**
